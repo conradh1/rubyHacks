@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby
+c
 
 # Finds a number between 1 and 99 in x tries and 
 # returns the number of tries.
@@ -31,7 +31,7 @@ end
 def capitals()
     
     # Hash examples
-    capitals = { 'Canada'=> 'Ottawa', 'Ukraine'=> 'Kiev'}
+    capitals = Hash[ 'Canada'=> 'Ottawa', 'Ukraine'=> 'Kiev']
     capitals['USA'] = 'Washington'
 
     countries = ['Canada', 'France', 'USA', 'Ukraine']

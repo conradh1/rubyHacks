@@ -1,4 +1,4 @@
-c
+#!/bin/ruby
 
 # Finds a number between 1 and 99 in x tries and 
 # returns the number of tries.
